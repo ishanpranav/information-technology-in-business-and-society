@@ -1,6 +1,6 @@
 # Information Technology in Business and Society
 
-this is a collection of problem set solutions from the NYU TECH 1 Information Technology in Business and Society course.
+This is a collection of problem set solutions from the NYU TECH 1 Information Technology in Business and Society course.
 
 ## License
 
